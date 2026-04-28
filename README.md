@@ -68,11 +68,6 @@ I'm <b>Ghada</b>, a Business Computing student and aspiring full-stack developer
 
 <h3>📂 Projects</h3>
 <ul>
-  <li>
-    📰 <b>Newsletter Management Platform</b><br/>
-    Intelligent platform with dashboard, content management, and categorization features.
-  </li>
-  <li>
     🎉 <b>Event Management Website</b><br/>
     Full-stack web application built with Laravel and MongoDB for event creation and management.
   </li>
