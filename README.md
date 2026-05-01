@@ -20,19 +20,18 @@ I'm <b>Ghada</b>, a Business Computing student and aspiring full-stack developer
 
 <p><b>💻 Programming Languages</b></p>
 <p>
-<img alt="Java"
-     src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"
-     style="pointer-events: none;" />  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img alt="SQL" src="https://img.shields.io/badge/SQL-lightgrey?style=flat" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-lightgrey?style=flat" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" style="pointer-events: none;" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" style="pointer-events: none;" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-lightgrey?style=flat" style="pointer-events: none;" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-lightgrey?style=flat" style="pointer-events: none;" />
 </p>
 
 <p><b>⚙️ Frameworks</b></p>
 <p>
-  <img alt="Spring Boot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" style="pointer-events: none;" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" style="pointer-events: none;" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" style="pointer-events: none;" />
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" style="pointer-events: none;" />
 </p>
 
 <p><b>🌐 Web Development</b></p>
