@@ -20,54 +20,55 @@ I'm <b>Ghada</b>, a Business Computing student and aspiring full-stack developer
 
 <p><b>💻 Programming Languages</b></p>
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" style="pointer-events: none;" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" style="pointer-events: none;" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-lightgrey?style=flat" style="pointer-events: none;" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-lightgrey?style=flat" style="pointer-events: none;" />
+  <a href="#"><img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" /></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
+  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-lightgrey?style=flat" /></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-lightgrey?style=flat" /></a>
 </p>
 
 <p><b>⚙️ Frameworks</b></p>
 <p>
-  <img alt="Spring Boot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" style="pointer-events: none;" />
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" style="pointer-events: none;" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" style="pointer-events: none;" />
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" style="pointer-events: none;" />
+  <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /></a>
+  <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /></a>
+  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" /></a>
+  <a href="#"><img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /></a>
 </p>
 
 <p><b>🌐 Web Development</b></p>
 <p>
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
+  <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /></a>
+  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" /></a>
 </p>
 
 <p><b>🗄️ Databases</b></p>
 <p>
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="phpMyAdmin" src="https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white" />
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a>
+  <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" /></a>
+  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></a>
+  <a href="#"><img alt="phpMyAdmin" src="https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white" /></a>
 </p>
 
 <p><b>📊 Data Analysis & Visualization</b></p>
 <p>
-  <img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-  <img alt="Power BI" src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <a href="#"><img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" /></a>
+  <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /></a>
 </p>
 
 <p><b>🛠️ Tools & IDEs</b></p>
 <p>
-  <img alt="VS Code" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img alt="Visual Studio" src="https://img.shields.io/badge/-VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
-  <img alt="STS" src="https://img.shields.io/badge/-SpringToolSuite-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-  <img alt="Android Studio" src="https://img.shields.io/badge/-AndroidStudio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img alt="RStudio" src="https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white" />
+  <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /></a>
+  <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/-VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" /></a>
+  <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white" /></a>
+  <a href="#"><img alt="STS" src="https://img.shields.io/badge/-SpringToolSuite-6DB33F?style=flat-square&logo=spring&logoColor=white" /></a>
+  <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/-AndroidStudio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" /></a>
+  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" /></a>
+  <a href="#"><img alt="RStudio" src="https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white" /></a>
 </p>
 
 <h3>📂 Projects</h3>
 <ul>
+  <li>
     🎉 <b>Event Management Website</b><br/>
     Full-stack web application built with Laravel and MongoDB for event creation and management.
   </li>
