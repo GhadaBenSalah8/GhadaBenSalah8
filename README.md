@@ -20,13 +20,8 @@ I'm <b>Ghada</b>, a Business Computing student and aspiring full-stack developer
 
 <p><b>💻 Programming Languages</b></p>
 <p>
-  <span style="display:inline-block;padding:6px 12px;margin:4px;background-color:#f0f0f0;border-radius:4px;">
-Java
-</span>
-
-<span style="display:inline-block;padding:6px 12px;margin:4px;background-color:#f0f0f0;border-radius:4px;">
-Python
-</span>
+<img alt="Java" src="https://img.shields.io/badge/Java-555?style=flat&logo=java&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python-555?style=flat&logo=python&logoColor=white" />
 <img alt="SQL" src="https://img.shields.io/badge/SQL-lightgrey?style=flat" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-lightgrey?style=flat" />
 </p>
