@@ -46,7 +46,6 @@ I'm <b>Ghada</b>, a Business Computing student and aspiring full-stack developer
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a>
   <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" /></a>
   <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></a>
-  <a href="#"><img alt="phpMyAdmin" src="https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white" /></a>
 </p>
 
 <p><b>📊 Data Analysis & Visualization</b></p>
