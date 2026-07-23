@@ -52,6 +52,7 @@ I'm <b>Ghada</b>, a Business Computing student and aspiring full-stack developer
 <p>
   <a href="#"><img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" /></a>
   <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /></a>
+   <a href="#"><img alt="Talend" src="https://img.shields.io/badge/-Talend-FF6D70?style=flat-square&logo=talend&logoColor=white" /></a>
 </p>
 
 <p><b>🛠️ Tools & IDEs</b></p>
@@ -59,7 +60,6 @@ I'm <b>Ghada</b>, a Business Computing student and aspiring full-stack developer
   <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /></a>
   <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/-VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" /></a>
   <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white" /></a>
-  <a href="#"><img alt="STS" src="https://img.shields.io/badge/-SpringToolSuite-6DB33F?style=flat-square&logo=spring&logoColor=white" /></a>
   <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/-AndroidStudio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" /></a>
   <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" /></a>
   <a href="#"><img alt="RStudio" src="https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white" /></a>
